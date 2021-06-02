@@ -1,0 +1,94 @@
+<game>
+    <settings fullscreen="false" basetimer="100" money="50000"/>
+    <coasts>
+        <value>50</value>
+        <value>75</value>
+        <value>200</value>
+        <value>150</value>
+        <value>250</value>
+        <value>150</value>
+    </coasts>
+    <levels>
+        <level num="1" xsize="20" ysize="16">11111103000111111111000000010101010000010011011101010100000100110100010101001101001100010100000010011111111111011110101110000000010001001011100222201111011110111002222010000100000110022220111111110001100000000000001100011000000000000001000110000000011100000011100000013111100001111111111111111111111111111111111111111111</level>
+    </levels>
+    <wavelist>
+        <wave>
+            <wp type="sphere" time="1"/>
+        </wave>
+        <wave>
+            <wp type="tiny" time="1"/>
+            <wp type="tiny" time="2"/>
+            <wp type="tiny" time="1"/>
+        </wave>
+        <wave>
+            <wp type="tiny" time="1"/>
+            <wp type="tiny" time="2"/>
+            <wp type="tiny" time="1"/>
+            <wp type="small" time="2"/>
+            <wp type="small" time="2"/>
+        </wave>
+        <wave>
+            <wp type="tiny" time="1"/>
+            <wp type="tiny" time="1"/>
+            <wp type="tiny" time="1"/>
+            <wp type="small" time="1"/>
+            <wp type="small" time="2"/>
+            <wp type="normal" time="1"/>
+        </wave>
+        <wave>
+            <wp type="planenormal" time="1" posy="6"/>
+        </wave>
+        <wave>
+            <wp type="planenormal" time="1" posy="6"/>
+            <wp type="planenormal" time="1" posy="4"/>
+            <wp type="planenormal" time="1" posy="5"/>
+            <wp type="planenormal" time="1" posy="3"/>
+            <wp type="planenormal" time="1" posy="1"/>
+        </wave>
+        <wave>
+            <wp type="normal" time="1"/>
+            <wp type="normal" time="1"/>
+            <wp type="normal" time="1"/>
+            <wp type="normal" time="1"/>
+            <wp type="normal" time="2"/>
+        </wave>
+        <wave>
+            <wp type="small" time="1"/>
+            <wp type="small" time="1"/>
+            <wp type="small" time="1"/>
+            <wp type="small" time="1"/>
+            <wp type="small" time="1"/>
+            <wp type="normal" time="1"/>
+            <wp type="normal" time="1"/>
+            <wp type="normal" time="1"/>
+            <wp type="normal" time="1"/>
+            <wp type="normal" time="1"/>
+        </wave>
+        <wave>
+            <wp type="normal" time="1"/>
+            <wp type="normal" time="2"/>
+            <wp type="normal" time="1"/>
+            <wp type="sphere" time="1"/>
+            <wp type="normal" time="2"/>
+        </wave>
+        <wave>
+            <wp type="sphere" time="1"/>
+            <wp type="sphere" time="2"/>
+            <wp type="sphere" time="1"/>
+            <wp type="normal" time="1"/>
+            <wp type="strong" time="5"/>
+        </wave>
+        <wave>
+            <wp type="strong" time="1"/>
+            <wp type="strong" time="2"/>
+            <wp type="strong" time="1"/>
+            <wp type="strong" time="1"/>
+            <wp type="strong" time="2"/>
+            <wp type="strong" time="1"/>
+            <wp type="strong" time="2"/>
+            <wp type="strong" time="1"/>
+            <wp type="strong" time="1"/>
+            <wp type="strong" time="2"/>
+        </wave>
+    </wavelist>
+</game>
