@@ -66,7 +66,7 @@ bool AStar::calculateAStar(Game & game, sf::Vector2i startpos)
 		}
 
 		if (openlist.empty()) {
-			std::cerr << "AStar: Path dont exist! " << std::endl;
+			std::cerr << "AStar: Path doesn't exist! " << std::endl;
 			existpath = false;
 			return false;
 		}

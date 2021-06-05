@@ -147,7 +147,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\TowerDefenseTest\TowerDefenseTest\tinyxml2\tinyxml2.cpp" />
     <ClCompile Include="Animation.cpp" />
     <ClCompile Include="AStar.cpp" />
     <ClCompile Include="Bullet.cpp" />
@@ -169,6 +168,7 @@
     <ClCompile Include="ParticleSystem.cpp" />
     <ClCompile Include="Render.cpp" />
     <ClCompile Include="Textures.cpp" />
+    <ClCompile Include="tinyxml2\tinyxml2.cpp" />
     <ClCompile Include="UiButton.cpp" />
     <ClCompile Include="UiDialog.cpp" />
     <ClCompile Include="UiElement.cpp" />
