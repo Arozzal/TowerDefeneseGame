@@ -1,4 +1,4 @@
-# TowerDefeneseGame
+# TowerDefenseGame
 
 A simpel tower defense game, inspired by an old flash game called Canyon Defense
 
